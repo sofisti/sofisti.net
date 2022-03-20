@@ -1,0 +1,30 @@
+{
+  "name": "sofisti.net",
+  "version": "0.0.1",
+  "description": "Sofisti manifesto website",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofisti/sofisti.net.git"
+  },
+  "keywords": [
+    "sofisti",
+    "knowledge",
+    "mooc",
+    "manifesto"
+  ],
+  "author": "William Di Pasquale <wdp@dipasqualew.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sofisti/sofisti.net/issues"
+  },
+  "homepage": "https://github.com/sofisti/sofisti.net#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
+}
